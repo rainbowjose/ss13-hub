@@ -1,0 +1,38 @@
+:root {
+/* ICY THEME */
+
+	--acolor:		#000000;
+	--bcolor:		#000000;
+	--ccolor:		#000000;
+	--dcolor:		#000000;
+	--ecolor:		#dddddd;
+	--fcolor:		#dddddd;
+	--gcolor:		#ffffff;
+	--hcolor:		#ffffff;
+
+	--color3:		#ffffff;
+	--color16:		#ffaaaa;
+	--color37:		#ffffff;
+
+	--color24:		#d98f4f10;
+	--color25:		#b3ffaa;
+	--color31:		#ced92250;
+	--color26:		#fff70010;
+	--color28:		#c0ff0010;
+	--color50:		#ffffff26;
+	--color29:		#d9222250;
+	--color27:		#aaaaaa;
+	--color34:		#444444;
+	--color35:		#ffaaaa;
+	--color36:		#ff0000;
+	--color38:		var(--acolor);
+	--color42:		#aaaaaa;
+	--color15:		#aaffaa;
+	--color43:		#ffffff;
+	--color44:		#8e5631;
+	--color17: 		#999999;
+}
+
+.damage {
+	color: black; /* important fuck */
+}

@@ -1,0 +1,33 @@
+:root {
+/* ICY THEME */
+
+	--acolor:		#e6ffff;
+	--bcolor:		#b3ffff;
+	--ccolor:		#80ffff;
+	--dcolor:		#00cccc;
+	--ecolor:		#009999;
+	--fcolor:		#008080;
+	--gcolor:		#006666;
+	--hcolor:		#004d4d;
+
+	--color3:		#001a1a;
+	--color16:		#001a1a;
+	--color37:		#001a1a;
+
+	--color24:		#d98f4f10;
+	--color25:		#b3ffaa;
+	--color31:		#ced92250;
+	--color26:		#fff70010;
+	--color28:		#c0ff0010;
+	--color50:		#ffffff26;
+	--color29:		#d9222250;
+	--color27:		#ffffdd;
+	--color34:		#aaaaaa;
+	--color35:		#a00000;
+	--color36:		#f09090;
+	--color38:		var(--acolor);
+	--color42:		#222222;
+	--color15:		#131700;
+	--color43:		#bb835e;
+	--color44:		#8e5631;
+}
